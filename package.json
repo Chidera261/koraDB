@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/koradb.git"
+    "url": "https://github.com/Chidera261/koraDB.git"
   },
   "dependencies": {
     "axios": "^1.7.2"
