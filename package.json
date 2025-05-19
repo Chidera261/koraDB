@@ -1,0 +1,23 @@
+{
+  "name": "koradb",
+  "version": "1.0.0",
+  "description": "A lightweight, disk-based JSON database with low RAM usage and REST API sync",
+  "main": "src/database.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["database", "json", "lightweight", "low-ram", "sync"],
+  "author": "Francis Udochukwu - francisdominic261@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/koradb.git"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nock": "^13.5.4"
+  }
+}
